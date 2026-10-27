@@ -4,7 +4,7 @@ slippery chicken: algorithmic composition software in common lisp and clos
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/mdedwards/slippery-chicken.git |
-| commit  | 36530d4                                              |
+| commit  | 541ec98                                              |
 | systems | slippery-chicken                                      |
 |---------+-------------------------------------------------------|
  
